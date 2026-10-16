@@ -16,3 +16,6 @@ application-local.properties
 # OS
 .DS_Store
 Thumbs.db
+
+# README local uniquement
+README.md
