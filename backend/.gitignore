@@ -1,0 +1,18 @@
+target/
+*.class
+*.jar
+*.war
+application-local.properties
+.env
+.env.local
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.suo
+*.user
+
+# OS
+.DS_Store
+Thumbs.db
